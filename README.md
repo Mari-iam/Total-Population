@@ -20,3 +20,7 @@ The analysis includes the following steps:
 2-Trend Analysis: Plotting the global population trend over time.
 3-Comparative Analysis: Plotting population trends for selected countries.
 4-Growth Rate Analysis: Calculating and analyzing annual growth rates, identifying the top and bottom countries by growth rate.
+
+
+[github](https://github.com/Mari-iam/Total-Population)
+
